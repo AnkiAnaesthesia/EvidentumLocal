@@ -1,0 +1,24 @@
+{
+  "name": "Evidentum Local — Systematic Review Workbench",
+  "short_name": "Evidentum",
+  "description": "Self-contained systematic review search and appraisal workbench. Your strategies, your screening, your machine.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a0f1c",
+  "theme_color": "#0a0f1c",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230a0f1c'/%3E%3Ccircle cx='22' cy='24' r='5' fill='%237dd3fc'/%3E%3Ccircle cx='44' cy='18' r='3.5' fill='%23a78bfa'/%3E%3Ccircle cx='40' cy='42' r='4.5' fill='%2322c55e'/%3E%3Ccircle cx='18' cy='46' r='3' fill='%23f59e0b'/%3E%3Cpath d='M22 24L44 18M22 24L40 42M44 18L40 42M18 46L40 42M18 46L22 24' stroke='%23334155' stroke-width='1.5'/%3E%3C/svg%3E",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%230a0f1c'/%3E%3Ccircle cx='22' cy='24' r='5' fill='%237dd3fc'/%3E%3Ccircle cx='44' cy='18' r='3.5' fill='%23a78bfa'/%3E%3Ccircle cx='40' cy='42' r='4.5' fill='%2322c55e'/%3E%3Ccircle cx='18' cy='46' r='3' fill='%23f59e0b'/%3E%3Cpath d='M22 24L44 18M22 24L40 42M44 18L40 42M18 46L40 42M18 46L22 24' stroke='%23334155' stroke-width='1.5'/%3E%3C/svg%3E",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
